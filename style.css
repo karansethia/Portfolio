@@ -1,0 +1,13 @@
+.logo-img{
+    width: 200px;
+    height: 200px;
+    background: url('./Media/Group\ 2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: 1s linear;
+}
+.logo-img:hover{
+    background: url('./Media/Group\ 2dark.png');
+    background-position: center;
+    background-repeat: no-repeat;
+}
