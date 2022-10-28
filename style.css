@@ -2,9 +2,11 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    color: aliceblue;
+    font-family: sans-serif;
 }
 .nav{
-    padding: 10px;
+    padding: 0;
     padding-left: 2rem;
     width: 100vw;
     height: 7%;
@@ -15,4 +17,9 @@
 .logo-img{
     width: 70px;
     height: 90px;
+}
+.nav_menu li{
+    list-style: none;
+    text-transform: uppercase;
+    font-weight: 500;
 }
