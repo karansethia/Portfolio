@@ -40,6 +40,11 @@
 .nav_menu li:hover{
     transform: scale(1.05);
 }
+.hero{
+    display: flex;
+    width: 1140px;
+}
 .myimg img{
     width: 256px;
 }
+
