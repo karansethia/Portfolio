@@ -42,9 +42,18 @@
 }
 .hero{
     display: flex;
+    justify-content: space-between;
+    margin: auto;
     width: 1140px;
 }
 .myimg img{
-    width: 256px;
+    width: 456px;
+}
+.salutation{
+    width: 50%;
+}
+.myimg{
+    width: 50%;
+    margin-left: 480px;
 }
 
